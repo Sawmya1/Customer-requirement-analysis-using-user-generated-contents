@@ -1,0 +1,9 @@
+altair==4.1.0
+matplotlib==3.4.3
+nltk==3.6.3
+numpy==1.20.3
+pandas==1.2.4
+pandas_profiling==3.1.0
+streamlit==1.1.0
+streamlit_pandas_profiling==0.1.2
+sweetviz==2.1.3
